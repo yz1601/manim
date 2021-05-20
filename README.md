@@ -38,6 +38,7 @@ python3 -m pip install -r requirements.txt
 
 # Try it out
 python3 ./manim.py example_scenes.py SquareToCircle -pl
+# or: python -m manim example_scenes.py -ql
 ```
 
 ### Directly (Windows)
